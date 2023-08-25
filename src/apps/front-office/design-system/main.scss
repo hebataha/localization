@@ -1,0 +1,17 @@
+// Global Styles here
+html {
+  scroll-behavior: smooth;
+}
+body{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+select,input,button{
+  padding: 10px;
+    border: 2px solid #2196F3;
+    color:#2196F3;
+}
+p{
+  font-weight: bold;
+  font-size: 1.3rem;
+}
